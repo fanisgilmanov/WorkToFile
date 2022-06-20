@@ -1,0 +1,59 @@
+{
+  "CarOwners": [
+    {
+      "name": "Владислав",
+      "age": "35",
+      "onCredit": false,
+      "cars": [
+        {
+          "name": "Lada",
+          "models": "Vesta"
+        },
+        {
+          "name": "Skoda",
+          "models": [
+            "Octavia",
+            "Kodiaq"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Евгения",
+      "age": "26",
+      "onCredit": true,
+      "cars": [
+        {
+          "name": "Volkswagen",
+          "models": "Polo"
+        }
+      ]
+    },
+    {
+      "name": "Иван",
+      "age": "44",
+      "onCredit": false,
+      "cars": [
+        {
+          "name": "BWM",
+          "models": "X5"
+        },
+        {
+          "name": "Lexus",
+          "models": [
+            "rx 350",
+            "450h"
+          ]
+        },
+        {
+          "name": "Mercedes",
+          "models": [
+            "ml 350",
+            "s63 amg",
+            "e 350"
+          ]
+        }
+      ]
+    }
+  ]
+}
